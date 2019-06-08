@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/ChanduReddy123/NodeJs#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "request": "*"
   }
 }

@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ChanduReddy123/NodeJs/issues"
   },
-  "homepage": "https://github.com/ChanduReddy123/NodeJs#readme"
+  "homepage": "https://github.com/ChanduReddy123/NodeJs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
